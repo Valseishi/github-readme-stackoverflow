@@ -1,3 +1,9 @@
-Hi my name is Valerie 🎀
+# ✨ Hi there, i'm Valerie✨
 
-Welcome to my profile, i happy to see you her :D
+Soy estudiante de programación/ingeniería de sistemas/etc...
+
+## Tecnologías que estoy aprendiendo
+
+📍 JavaScript
+📍 Python
+📍 Git
