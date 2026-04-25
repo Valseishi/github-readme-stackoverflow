@@ -7,3 +7,5 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 📍 JavaScript
 📍 Python
 📍 Git
+
+[Linkedin](https://github.com/Valseishi/Valseishi)
