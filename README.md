@@ -1,5 +1,5 @@
 # ✨ Hi there, i'm Valerie✨
-
+<img src="https://github.com/Valseishi/Valseishi/blob/master/gatito.gif" width="400"/>
 Soy estudiante de programación/ingeniería de sistemas/etc...
 
 ## Tecnologías que estoy aprendiendo
